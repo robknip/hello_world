@@ -1,0 +1,5 @@
+cd.. -- back one level
+ls / ls -l list
+git clone -- clone repository from web
+git status -- status of files
+git commit - m "here is the message from the commit"
